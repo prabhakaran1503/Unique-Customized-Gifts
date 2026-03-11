@@ -1,30 +1,65 @@
-# 🎁 UNIQUE COUSTOMIZED GIFTS
+# 🎁 Unique Customized Gifts
 
-A creative web application for personalized gifts and custom art services — built to showcase and manage the business offerings of **Unique_Coustmized_Gifts_**.  
-Customers can explore a wide range of customized products such as photo frames, art drawings, personalized gifts, and event photography.
+A creative web application for showcasing and managing **personalized gifts and custom art services**.
+
+This project represents the digital platform for **Unique Customized Gifts**, where customers can explore and order customized products such as photo frames, drawings, and event photography services.
 
 ---
 
 ## ✨ Features
 
-- 🖼️ **Photo Frame Creations** – Upload your photo and get a beautiful custom frame.  
-- 🎨 **Custom Photo Drawings** – Turn your favorite picture into a handmade-style digital drawing.  
-- 🎁 **Personalized Gifts** – Unique gift ideas for birthdays, weddings, and special occasions.  
-- 📸 **Photo & Video Shoots** – Book professional shoots for weddings, birthdays, and events.  
-- 🖌️ **Art Works Display** – Explore and purchase creative artworks from the gallery.
+* 🖼️ **Custom Photo Frames** – Upload your photos and get beautifully designed frames.
+* 🎨 **Custom Photo Drawings** – Convert photos into artistic drawings.
+* 🎁 **Personalized Gifts** – Unique gifts for birthdays, weddings, and special occasions.
+* 📸 **Photo & Video Shoot Booking** – Professional photography for events.
+* 🖌️ **Art Gallery** – Display and showcase creative artworks.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:**
-- HTML, CSS, JavaScript  
-- React.js / Bootstrap (optional)
+**Frontend**
 
-**Backend (if applicable):**
-- Node.js & Express.js  
-- MongoDB or Firebase for storage  
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Tailwind CSS
 
-**Tools & Environment:**
-- Visual Studio Code  
-- Git & GitHub for version control
+**Tools**
+
+* Visual Studio Code
+* Git
+* GitHub
+
+---
+
+## 📂 Project Structure
+
+```id="proj984"
+Unique-Customized-Gifts/
+│
+├── index.html
+├── package.json
+├── tailwind.config.ts
+├── vite.config.ts
+├── components.json
+└── README.md
+```
+
+---
+
+## 🚀 Project Purpose
+
+This project was developed to:
+
+* Promote a **custom gift business online**
+* Showcase **creative artwork and products**
+* Provide a platform for customers to explore customized services.
+
+---
+
+## 👨‍💻 Author
+
+Prabhakaran
+
